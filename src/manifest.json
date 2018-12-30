@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Thinking Face Emoji 🤔",
+  "version": "1.0",
+  "developer": {
+    "name": "rafa",
+    "url": "https://github.com/this-is-rafa/thinking-face"
+  },
+  "description": "All this does is add an icon of the 'Thinking Face' emoji (🤔) to your toolbar.",
+  "icons": {
+    "48": "icons/tf48.png",
+    "96": "icons/tf96.png"
+  },
+  "browser_action": {
+      "default_icon": {
+        "48": "icons/tf48.png",
+        "96": "icons/tf96.png"
+    }
+  }
+}
